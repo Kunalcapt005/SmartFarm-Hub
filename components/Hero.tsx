@@ -5,9 +5,7 @@ export default function Hero() {
         Smart Farm Hub
       </h2>
 
-      <p className="mt-4 text-gray-600">
-        Week 2 Frontend Deliverable
-      </p>
+      
     </section>
   );
 }
